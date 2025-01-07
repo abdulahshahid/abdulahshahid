@@ -62,7 +62,7 @@ With 4+ years of experience, I constantly challenge myself to learn new technolo
 <hr>
 <p align="center">
   <a href="https://github.com/abdulahshahid/abdulahshahid">
-  <img align="center" src="https://img.shields.io/badge/CREATED%20BY-veronicadev-lightgrey?style=for-the-badge" />
+  <img align="center" src="https://img.shields.io/badge/CREATED%20BY-ABDULLAH SHAHID-lightgrey?style=for-the-badge" />
 </a>
 
 </p>
