@@ -40,9 +40,9 @@ With 4+ years of experience, I constantly challenge myself to learn new technolo
 
 <h2>📈 GitHub Stats</h2>
 <a href="https://github.com/veronicadev/veronicadev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulahshahid&show_icons=true&line_height=27&count_private=true&layout=compact&bg_color=30,e690c6,7063a5&title_color=fff&text_color=fff&hide=contribs" alt="Veronicadev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulahshahid&show_icons=true&line_height=27&count_private=true&layout=compact&bg_color=30,e690c6,7063a5&title_color=fff&text_color=fff&hide=contribs" alt="Abdulla's GitHub Stats" />
 </a>
-<a href="https://github.com/veronicadev/veronicadev">
+<a href="https://github.com/abdulahshahid/abdulahshahid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahshahid&layout=compact&bg_color=30,e690c6,7063a5&title_color=fff&text_color=fff" />
 </a>
 
@@ -53,7 +53,7 @@ With 4+ years of experience, I constantly challenge myself to learn new technolo
 <p style="font-size:16px">
 🎨 I enjoy drawing things I find cool or interesting,<br>
 🏋️‍♀️ I love exercising & move my body,<br>
-💬 Ask me about anything via <a href="mailto:viarengoveronica@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/veronica-viarengo/" target="_blank">Linked-In.</a><br>
+💬 Ask me about anything via <a href="mailto:abdulah.shahid1045@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/abdullah-shahid-8a1192263/" target="_blank">Linked-In.</a><br>
 
 </p>
 
