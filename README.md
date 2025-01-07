@@ -28,7 +28,7 @@ With 4+ years of experience, I constantly challenge myself to learn new technolo
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=NPM&logoColor=CB3837)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=for-the-badge&logo=Keras&logoColor=D00000)
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-000000?style=for-the-badge&logo=Scikit-learn)
+![Scikit-learn](https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000000?style=for-the-badge&logo=Huggingface&logoColor=FF7A00)
 
