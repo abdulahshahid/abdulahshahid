@@ -5,31 +5,34 @@ Hey, nice to see you
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 </h1>
 
-
 <p>Welcome to my page! </br>
-I'm Abdullah, an AI developer based in <strong>Lahore, Pakistan.</strong> 🇵🇰<br>
-As soon as I graduated from high school I started working as a software developer, starting from front-end web development.
-Right now, my work ranges from web development, to software development.<br>
-Currently, I have been working for about four years. 💻<br><br>
-I define myself curious and creative and I always push myself to learn something new.
+I'm Abdullah, an AI developer based in <strong>Lahore, Pakistan</strong> 🇵🇰. <br>
+I began my career in software development right after high school, starting with front-end web development. Over the years, I've expanded my expertise to full-stack web development, software engineering, and AI. 💻 <br><br>
+With 4+ years of experience, I constantly challenge myself to learn new technologies and improve my skills. I define myself as curious, creative, and driven to create innovative solutions. 🚀
 
 <br>
 <h2> 🔧 Technologies I enjoy working with</h2>
 
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=Angular&logoColor=DD0031)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=339933)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express.js&logoColor=76D04B)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=47A248)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=NPM&logoColor=CB3837)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=NPM&logoColor=CB3837)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/-Keras-000000?style=for-the-badge&logo=Keras&logoColor=D00000)
+![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-000000?style=for-the-badge&logo=Scikit-learn)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000000?style=for-the-badge&logo=Huggingface&logoColor=FF7A00)
+
+
 
 
 <br>
