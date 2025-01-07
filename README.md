@@ -36,8 +36,7 @@ With 4+ years of experience, I constantly challenge myself to learn new technolo
 
 <br>
 <h2>🏆 Github Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=abdulahshahid&theme=flat&no-frame=true&margin-w=30"/>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulahshahid)](https://github.com/ryo-ma/github-profile-trophy)
 <h2>📈 GitHub Stats</h2>
 <a href="https://github.com/abdulahshahid/abdulahshahid">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulahshahid&show_icons=true&line_height=27&count_private=true&layout=compact&bg_color=30,e690c6,7063a5&title_color=fff&text_color=fff&hide=contribs" alt="Abdulla's GitHub Stats" />
